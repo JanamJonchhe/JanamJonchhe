@@ -201,7 +201,7 @@ AI application that analyses skills, resumes and job descriptions and provides p
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2027 Goals
 
 * [ ] Build strong Machine Learning fundamentals
 * [ ] Learn PyTorch
